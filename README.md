@@ -40,4 +40,3 @@ Conclusion
 The described implementation of a trie data structure with an integrated terminal visualization tool yields significant practical and educational value. It stands to solidify the foundational concepts of efficient handling of text data, prefix queries, compression, and presents them in an accessible format.
 
 
-![image](https://github.com/matt-presti/final_project_tries/assets/156844474/f64f034f-2b78-451b-9c05-02ac734fe5dc)
