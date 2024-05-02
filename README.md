@@ -32,8 +32,12 @@ Anticipated challenges include:
 
 
 Expected Outcomes and Methodology
+
+
 Initial phases of development will focus on implementing the aforementioned trie operations with test-driven development. The latter phases will prioritize the development of the visualization tool, user interface, and its integration with the trie operations.
 
 Conclusion
 The described implementation of a trie data structure with an integrated terminal visualization tool yields significant practical and educational value. It stands to solidify the foundational concepts of efficient handling of text data, prefix queries, compression, and presents them in an accessible format.
+
+
 ![image](https://github.com/matt-presti/final_project_tries/assets/156844474/f64f034f-2b78-451b-9c05-02ac734fe5dc)
