@@ -7,8 +7,7 @@ This is a trie/prefix tree data structure implementation in c++. The code define
 
 
 **Walkthrough Video**
-
-
+https://www.youtube.com/watch?v=qsMHSdl7uBA
 
 
 
